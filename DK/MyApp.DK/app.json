@@ -1,7 +1,7 @@
 ﻿{
-    "id":  "DKGUID",
+    "id":  "7ffb2f9b-ef5e-4484-9b46-95f732032c5c",
     "name":  "MyApp.DK",
-    "publisher":  "PUBLISHERNAME",
+    "publisher":  "Roberto Corella",
     "version":  "1.0.0.0",
     "brief":  "",
     "description":  "",
@@ -18,9 +18,9 @@
             "version":  "1.0.0.0"
         },
         {
-            "id":  "W1GUID",
+            "id":  "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
             "name":  "MyApp.W1",
-            "publisher":  "PUBLISHERNAME",
+            "publisher":  "Roberto Corella",
             "version":  "1.0.0.0"
         }
     ],
